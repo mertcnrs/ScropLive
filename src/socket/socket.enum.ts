@@ -1,5 +1,5 @@
 export enum GameChallengeTitle {
-  Trivia = 'trivia',
+  Trivia = 'Bilgi Yarışması',
 }
 
 export enum ChallengeResponseType {
