@@ -1,222 +1,152 @@
 [
   {
-    "question": "______ _________ is the last queen of England.",
-    "answer": "Queen Elizabeth",
-    "hint": "British monarch"
+    "question": "Türkiye Cumhuriyeti'nin kurucusu _______ _______'tür.",
+    "answer": "Mustafa Kemal",
+    "hint": "Atatürk soyadını 1934'te almıştır"
   },
   {
-    "question": "\"I am ____ ___\" is the most famous line in Avengers.",
-    "answer": "Iron Man",
-    "hint": "Genius, billionaire, playboy, philanthropist"
+    "question": "İstanbul'un fethi ______ yılında gerçekleşmiştir.",
+    "answer": "1453",
+    "hint": "Fatih Sultan Mehmet döneminde"
   },
   {
-    "question": "The capital city of France is _____.",
-    "answer": "Paris",
-    "hint": "City of Love"
+    "question": "Türk kahvesi ______ yılında UNESCO Somut Olmayan Kültürel Miras Listesi'ne girmiştir.",
+    "answer": "2013",
+    "hint": "Geleneksel içeceğimiz"
   },
   {
-    "question": "The largest planet in our solar system is _______.",
-    "answer": "Jupiter",
-    "hint": "Named after the king of the Roman gods"
+    "question": "______ _______, 'Sanat Güneşi' olarak bilinen ünlü Türk ses sanatçısıdır.",
+    "answer": "Zeki Müren",
+    "hint": "Türk Sanat Müziği'nin efsane ismi"
   },
   {
-    "question": "The currency used in Japan is ___.",
-    "answer": "Yen",
-    "hint": "Three letters, starts with 'Y'"
+    "question": "Türkiye'nin en yüksek dağı _____ _____'tır.",
+    "answer": "Ağrı Dağı",
+    "hint": "5137 metre yüksekliğinde"
   },
   {
-    "question": "The Great Barrier Reef is located in the _______ Ocean.",
-    "answer": "Pacific",
-    "hint": "Largest and deepest ocean"
+    "question": "_______ _______, 2002 Dünya Kupası'nda Türkiye'yi üçüncülüğe taşıyan teknik direktördür.",
+    "answer": "Şenol Güneş",
+    "hint": "Milli takımın efsane teknik direktörü"
   },
   {
-    "question": "The author of 'Harry Potter' series is _._. _______.",
-    "answer": "J.K. Rowling",
-    "hint": "Famous British author"
+    "question": "______ ______, 'Kara Kartal' lakaplı spor kulübüdür.",
+    "answer": "Beşiktaş JK",
+    "hint": "1903 yılında kurulmuştur"
   },
   {
-    "question": "The Earth's largest continent is ____.",
-    "answer": "Asia",
-    "hint": "Home to countries like China and India"
+    "question": "Türkiye'nin ilk kadın savaş pilotu _______ _______'dir.",
+    "answer": "Sabiha Gökçen",
+    "hint": "İstanbul'daki havalimanına adı verilmiştir"
   },
   {
-    "question": "The famous scientist who developed the theory of relativity is ______ ________.",
-    "answer": "Albert Einstein",
-    "hint": "E=mc^2"
+    "question": "______ ______, 'Reis-i Cumhur' olarak bilinen ilk Osmanlı padişahıdır.",
+    "answer": "Sultan Vahdettin",
+    "hint": "Son Osmanlı padişahı"
   },
   {
-    "question": "The highest mountain in the world is _____ _______.",
-    "answer": "Mount Everest",
-    "hint": "Located in the Himalayas"
+    "question": "Türkiye'nin milli içeceği ____'dır.",
+    "answer": "Ayran",
+    "hint": "Yoğurttan yapılan geleneksel içecek"
   },
   {
-    "question": "The currency of Germany is ____.",
-    "answer": "Euro",
-    "hint": "Used by many European countries"
+    "question": "______ _______, 'Çalıkuşu' romanının yazarıdır.",
+    "answer": "Reşat Nuri",
+    "hint": "Güntekin soyadlı yazar"
   },
   {
-    "question": "The smallest prime number is _.",
-    "answer": "2",
-    "hint": "Even and only divisible by 1 and itself"
+    "question": "İstiklal Marşı'nın yazarı ______ _____ _____'tir.",
+    "answer": "Mehmet Akif Ersoy",
+    "hint": "Milli şairimiz"
   },
   {
-    "question": "The longest river in the world is ____.",
-    "answer": "Nile",
-    "hint": "Flows through Northeast Africa"
+    "question": "Türkiye'nin en büyük gölü ___ ____'dür.",
+    "answer": "Van Gölü",
+    "hint": "Doğu Anadolu'da bulunur"
   },
   {
-    "question": "The famous painting 'Mona Lisa' is displayed in ______.",
-    "answer": "Louvre",
-    "hint": "World's largest art museum"
+    "question": "_______ _______, Türk sinemasının 'Sultan'ı olarak bilinen aktristir.",
+    "answer": "Türkan Şoray",
+    "hint": "200'den fazla filmde rol almıştır"
   },
   {
-    "question": "The element with the symbol 'O' is ______.",
-    "answer": "Oxygen",
-    "hint": "Critical for human respiration"
+    "question": "Kapadokya _______ ilinde yer almaktadır.",
+    "answer": "Nevşehir",
+    "hint": "Peri bacalarıyla ünlü şehir"
   },
   {
-    "question": "The fastest land animal is _______.",
-    "answer": "Cheetah",
-    "hint": "Known for its incredible speed"
+    "question": "______ ______, Türkiye'nin ilk Nobel ödüllü yazarıdır.",
+    "answer": "Orhan Pamuk",
+    "hint": "2006 yılında Nobel Edebiyat Ödülü'nü kazandı"
   },
   {
-    "question": "The capital city of Australia is ________.",
-    "answer": "Canberra",
-    "hint": "Located between Sydney and Melbourne"
+    "question": "Türkiye'nin en kalabalık şehri olan İstanbul, iki kıtayı birbirine bağlayan ______ ve _______ boğazlarına sahiptir.",
+    "answer": "Boğaziçi",
+    "hint": "Asya ve Avrupa'yı birleştiren su yolu"
   },
   {
-    "question": "The largest mammal on Earth is ____ _____.",
-    "answer": "Blue Whale",
-    "hint": "Lives in the ocean and feeds on krill"
+    "question": "Nasreddin Hoca'nın meşhur '____' hikayesi, tersine bindiği hayvanla ilgilidir.",
+    "answer": "Eşek",
+    "hint": "Akşehir'in bilge kişisi"
   },
   {
-    "question": "The famous playwright who wrote 'Romeo and Juliet' is _______ ___________.",
-    "answer": "William Shakespeare",
-    "hint": "Considered one of the greatest writers in English literature"
+    "question": "'Karagöz ve _______' geleneksel Türk gölge oyunudur.",
+    "answer": "Hacivat",
+    "hint": "Osmanlı döneminden kalma gölge oyunu"
   },
   {
-    "question": "The inventor of the telephone is _________ ______ ____.",
-    "answer": "Alexander Graham Bell",
-    "hint": "Scottish-born scientist and inventor"
+    "question": "______ _______, 'Memleketimden İnsan Manzaraları' eserinin yazarıdır.",
+    "answer": "Nazım Hikmet",
+    "hint": "Ünlü Türk şairi"
   },
   {
-    "question": "The Treaty of __________ ended World War I in 1919.",
-    "answer": "Versailles",
-    "hint": "Signed near Paris"
+    "question": "Türkiye'nin ilk yerli otomobili ______'dir.",
+    "answer": "Togg",
+    "hint": "2022'de seri üretime başladı"
   },
   {
-    "question": "______ ______ was the leader of the Soviet Union during much of the Cold War.",
-    "answer": "Joseph Stalin",
-    "hint": "Succeeded Lenin"
+    "question": "______ ______, 'Dağ Başını Duman Almış' marşının bestekarıdır.",
+    "answer": "Osman Zeki",
+    "hint": "Üngör soyadlı besteci"
   },
   {
-    "question": "The ____ Dynasty ruled China for over two millennia, making it one of the world's oldest continuous civilizations.",
-    "answer": "Qing",
-    "hint": "Last imperial dynasty"
+    "question": "Efes Antik Kenti _____ ilinde bulunmaktadır.",
+    "answer": "İzmir",
+    "hint": "Ege Bölgesi'nin incisi"
   },
   {
-    "question": "_____ _____ was the first woman to win a Nobel Prize and remains the only person to win Nobel Prizes in two different scientific fields.",
-    "answer": "Marie Curie",
-    "hint": "Physicist and chemist"
+    "question": "Türkiye'nin geleneksel güreş sporcularına verilen isim ______'dır.",
+    "answer": "Pehlivan",
+    "hint": "Kırkpınar'da yarışırlar"
   },
   {
-    "question": "The ______ War, fought from 1950 to 1953, was a conflict between North and South Korea.",
-    "answer": "Korean",
-    "hint": "Divided by the 38th parallel"
+    "question": "______ ______, 'Aşk-ı Memnu' romanının yazarıdır.",
+    "answer": "Halit Ziya",
+    "hint": "Uşaklıgil soyadlı yazar"
   },
   {
-    "question": "The _____ Wall, built during the Ming Dynasty, served as a defensive fortification in northern China.",
-    "answer": "Great",
-    "hint": "World Heritage Site"
+    "question": "Türk mutfağının en ünlü tatlılarından biri olan _______, Gaziantep'in coğrafi işaretli ürünüdür.",
+    "answer": "Baklava",
+    "hint": "40 kat yufkadan yapılır"
   },
   {
-    "question": "The _______ Plague, also known as the Black Death, swept through Europe in the 14th century.",
-    "answer": "Bubonic",
-    "hint": "Caused by Yersinia pestis bacterium"
+    "question": "______ _______, 'Kara Murat' serisinin unutulmaz aktörüdür.",
+    "answer": "Cüneyt Arkın",
+    "hint": "Türk sinemasının aksiyon yıldızı"
   },
   {
-    "question": "Water is composed of two elements, hydrogen and ______.",
-    "answer": "Oxygen",
-    "hint": "Essential for life"
+    "question": "Türkiye'nin ilk kadın başbakanı ______ ______'dir.",
+    "answer": "Tansu Çiller",
+    "hint": "1993-1996 yılları arasında görev yapmıştır"
   },
   {
-    "question": "The chemical symbol for gold is __.",
-    "answer": "Au",
-    "hint": "A noble metal"
+    "question": "______ ______, 'Ah Bu Şarkıların Gözü Kör Olsun' şarkısıyla tanınan sanatçıdır.",
+    "answer": "Neşet Ertaş",
+    "hint": "Bozkırın tezenesi"
   },
   {
-    "question": "The process by which plants make their own food using sunlight is called ______________.",
-    "answer": "Photosynthesis",
-    "hint": "Involves chlorophyll in plant cells"
-  },
-  {
-    "question": "The Earth's outermost layer is called the _____.",
-    "answer": "Crust",
-    "hint": "Includes continents and ocean floor"
-  },
-  {
-    "question": "The chemical symbol for iron is __.",
-    "answer": "Fe",
-    "hint": "Common metal in construction and machinery"
-  },
-  {
-    "question": "The human heart has ____ chambers.",
-    "answer": "Four",
-    "hint": "Includes left and right atria and ventricles"
-  },
-  {
-    "question": "The smallest unit of an element that retains its chemical properties is a(n) ____.",
-    "answer": "Atom",
-    "hint": "Composed of protons, neutrons, and electrons"
-  },
-  {
-    "question": "The lead singer of Queen was _______ _______.",
-    "answer": "Freddie Mercury",
-    "hint": "Known for powerful vocals"
-  },
-  {
-    "question": "The 'King of Pop' is a nickname for ______ _______.",
-    "answer": "Michael Jackson",
-    "hint": "Thriller, Bad, and Dangerous"
-  },
-  {
-    "question": "The famous composer of 'Moonlight Sonata' and 'Fur Elise' is ______ ___ Beethoven.",
-    "answer": "Ludwig van",
-    "hint": "German composer and pianist"
-  },
-  {
-    "question": "The lead singer of Nirvana was ________ ______.",
-    "answer": "Kurt Cobain",
-    "hint": "Grunge music pioneer"
-  },
-  {
-    "question": "The character Jack Dawson is featured in the movie _______.",
-    "answer": "Titanic",
-    "hint": "Romantic drama directed by James Cameron"
-  },
-  {
-    "question": "The film 'The ________ Redemption' is based on a Stephen King novella and is often regarded as one of the greatest films of all time.",
-    "answer": "Shawshank",
-    "hint": "Released in 1994"
-  },
-  {
-    "question": "In the movie '_______ ____,' the main character utters the famous line, 'Life is like a box of chocolates.'",
-    "answer": "Forrest Gump",
-    "hint": "Starring Tom Hanks"
-  },
-  {
-    "question": "The movie '____ _______,' directed by Quentin Tarantino, is known for its non-linear narrative and memorable dialogue.",
-    "answer": "Pulp Fiction",
-    "hint": "Released in 1994"
-  },
-  {
-    "question": "The fantasy film series based on J.K. Rowling's novels is titled '_____ ______.'",
-    "answer": "Harry Potter",
-    "hint": "Follows a young wizard's journey"
-  },
-  {
-    "question": "The superhero film '_____ _______' introduces the Marvel character T'Challa, also known as the Black Panther.",
-    "answer": "Black Panther",
-    "hint": "Wakanda forever!"
+    "question": "Pamukkale'nin beyaz travertenlerinin bulunduğu il ______'dir.",
+    "answer": "Denizli",
+    "hint": "UNESCO Dünya Mirası Listesi'nde"
   }
 ]
